@@ -1,30 +1,21 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This is a java snake game, I'm try to learn Java so I followed multiple tutorials to create this game. I definetly learn more about Java and how it works. 
+The gist of the game is a snake who eats to grow. You will lose if you touch the edges or touch yourself. Eat as many apples as you can. 
 
-{Provide a description the software that you wrote to demonstrate the Java language.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/OhcOqEiwAZY)
 
 # Development Environment
-
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+I used Intellij and JavaFX. I used the latest version for both, which right now is 19. 
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Youtube video on Snake Game](https://www.youtube.com/watch?v=vDO7hHkuzp8)
+* [Install Java](https://www.oracle.com/java/technologies/downloads/)
+
 
 # Future Work
-
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Make the game work. 
+* Make it more modern and more efficient. 
 * Add levels
-* Add features 
+* Add obstacles
